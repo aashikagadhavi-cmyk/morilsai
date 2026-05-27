@@ -1,0 +1,6 @@
+{
+  "name": "MotusAI",
+  "description": "Generative AI and AI Automation company providing enterprise-grade SaaS solutions, workflow auto-orchestration, and predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
